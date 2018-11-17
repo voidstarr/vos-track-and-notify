@@ -1,3 +1,3 @@
-source venv/bin/activate
+Watch @JagexClock twitter page, and notify me when Amlodd hour is active.
 
-tweet fields: tweetId, time, text, replies, retweets, likes, entries{hashtags, urls, photos, videos}
+This project employs APScheduler, and twitter-scraper
