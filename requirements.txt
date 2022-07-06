@@ -8,7 +8,7 @@ cssselect==1.0.3
 fake-useragent==0.1.11
 future==0.17.1
 idna==2.7
-lxml==4.2.5
+lxml==4.9.1
 oauthlib==2.1.0
 parse==1.9.0
 pkg-resources==0.0.0
